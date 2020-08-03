@@ -1,6 +1,6 @@
 # HTTP access log parse
 
-The purpose of the project is to parse a NASA access log file in order to perform various analysis tasks, the tasks are the following:
+The purpose of the project is to parse a [NASA access log file](ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz) in order to perform various analysis tasks, the tasks are the following:
 
 1. Top 10 requested pages and the number of requests made for each
 2. Percentage of successful requests (anything in the 200s and 300s range)
